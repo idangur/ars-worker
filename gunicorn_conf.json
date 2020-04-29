@@ -1,0 +1,1 @@
+{"loglevel": "info", "workers": 16, "bind": "0.0.0.0:8000", "workers_per_core": 1.0, "host": "0.0.0.0", "port": "8000"}
